@@ -1,8 +1,8 @@
-## Spatial CNN for Traffic Lane Detection
+## Traffic Lane Detection Using Spatial CNNs | Deep Learning
 
-### Paper
+### Reference Paper
 
-Xingang Pan, Jianping Shi, Ping Luo, Xiaogang Wang, Xiaoou Tang. ["Spatial As Deep: Spatial CNN for Traffic Scene Understanding"](https://arxiv.org/abs/1712.06080), AAAI2018
+["Spatial As Deep: Spatial CNN for Traffic Scene Understanding"](https://arxiv.org/abs/1712.06080), AAAI2018
 
 This code is modified from [fb.resnet.torch](https://github.com/facebook/fb.resnet.torch).
 
